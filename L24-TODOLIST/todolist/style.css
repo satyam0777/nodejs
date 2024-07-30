@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    text-align: center;
+    font-size: 50px;
+}
+.newtask{
+    font-size: 30px;
+    width: 60%;
+
+}
+.btn{
+    font: size 30px; 
+    border: 0;
+    padding: 3px;
+    width: 15%; 
+    background-color: burlywood;
+    color: blueviolet;
+}
